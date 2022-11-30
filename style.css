@@ -100,13 +100,31 @@ h2{
     height: auto;
     margin: 30px 0 0 0;
 }
+.web {
+    margin: 30px auto 30px auto;
+    width: 90%;
+    height: auto;
+    padding: 0 0 30px 0;
+    background-color: #fff;
+    border-radius: 70px;
+}
+
+.webtext {
+    padding: 30px;
+    font: 25px tahoma;
+    width: 90%;
+    height: auto;
+    margin: 30px 0 0 0;
+}
 h1{
     text-align: center;
 }
-.ftr{
+.ftr {
+    color: #000;
     padding: 10px 20px;
     font-size: 20px;
-    margin: 0 auto;
+    margin: 20px auto;
     width: 90%;
     background-color: #fff;
+    border-radius: 30px;
 }
