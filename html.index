@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Team 45</title>
+    <link rel="stylesheet" href="FirstPage.css" />
+</head>
+<body>
+    <div class="www">
+        <div class="logo1">
+            Team
+            <br />
+            43
+        </div>
+        <div class="table">
+            <ul>
+                <li><a href="#website">Website Project</a></li>
+                <li><a href="#hoc">Hour of Code</a></li>
+                <li><a href="#aboutus">Team Members</a></li>
+                <li><a href="#contactus">Contact Us</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="ww">
+    </div>
+    <h2>Website Project</h2>
+    <div class="web">
+
+        <div class="webtext">
+            <p>
+                 <br />
+                We built our website using html and css.  Our site consists of a video about CodeHour, and a little information about the group members. This homework taught us how to create our own site and was very helpful.
+                <br />
+
+            </p>
+        </div>
+        </div>
+
+        <div class="ww">
+        </div>
+        <h2>Hour of Code</h2>
+        <div class="hoc">
+
+            <div class="hoctext">
+                <p>
+                    HOUR OF CODE <br />
+                    It is a global movement involving more than 180 countries. According to statistics, 57,547 events were registered for 2022, and 45 events were held in our country.
+                    <br />
+                    <br />
+                    Team 43 Event <br />
+                    Code hour is an event designed to increase interest in the computer field. Our group organized this event on November 15, 2022.  7th grade students of school number 200 participated in this event. During the event, group members informed the children about the ADA university, explained the algorithm and help them to play code.org.
+                </p>
+            </div>
+            <div class="video1">
+                <video controls autoplay muted>
+                    <source src="ilaha.mp4" type="video/mp4" />
+                </video>
+            </div>
+        </div>
+
+
+
+        <div class="ww">
+        </div>
+
+
+        <div class="ttab">
+            <h2>About Us</h2>
+            <table>
+                <tr>
+                    <td>Team 43</td>
+                    <td>Ilaha Jamalli</td>
+                    <td>Halima Khanmammadova</td>
+                    <td>Aliya Zulfugarli</td>
+                    <td>Hazrat Guliyev</td>
+                </tr>
+                <tr>
+                    <td>Major</td>
+                    <td>Information Technologies</td>
+                    <td>Computer Science</td>
+                    <td>Information Technologies</td>
+                    <td>Electrical and Electronics Engineering</td>
+                </tr>
+                <tr>
+                    <td>Ages</td>
+                    <td>18</td>
+                    <td>18</td>
+                    <td>17</td>
+                    <td>17</td>
+                </tr>
+                <tr>
+
+                    <td>Hobbies</td>
+                    <td>Listening to music, watching films</td>
+                    <td>Reading crime stories, books</td>
+                    <td>Taking care of animals</td>
+                    <td>Collecting stamps</td>
+                </tr>
+            </table>
+        </div>
+        <div class="ww">
+        </div>
+            <h2>Contact Us</h2>
+        <div class="ftr">
+            Ilaha Jamalli: <a href="mailto:ijamalli16111@ada.edu.az">(outlook email)</a>
+            <br />Halima Khanmammadova: <a href="mailto:">(outlook email)</a>
+            <br />Aliya Zulfugarli: <a href="mailto:">(outlook email)</a>
+            <br />Hazrat Guliyev: <a href="mailto:">(outlook email)</a>
+        </div>
+
+</body>
+</html>
